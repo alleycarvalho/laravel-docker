@@ -1,3 +1,9 @@
+## Endereço da imagem no Docker Hub
+
+https://cloud.docker.com/repository/docker/alleycarvalho/laravel
+
+<br><br>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
